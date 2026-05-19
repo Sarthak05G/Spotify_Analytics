@@ -162,7 +162,12 @@ Visualizations
 - Artist Distribution
 - Release Timeline
 
-(Add screenshots here)
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/9323cfb9-4f8a-4ad5-bb8d-e91ca3675623" />
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/f53f0b7f-c2de-4014-be1b-17c797430f24" />
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/21584387-9864-40bc-b801-6baba1833d5e" />
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/340f2d51-a25c-4a1c-afb3-03794c1d031f" />
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/6392d7e4-903d-4ee5-a4ab-b5e92c9988d0" />
+
 
 ---
 
